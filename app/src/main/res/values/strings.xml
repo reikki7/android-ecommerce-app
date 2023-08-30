@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">eCommerce</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="first_slide">Seamless Shopping Experience</string>
+    <string name="second_slide">Express Delivery Services</string>
+    <string name="third_slide">Safe and Secure Deliveries</string>
+
+    <string name="description">Order Anywhere, Anytime - Convenience Delivered!</string>
+    <string name="description2">Lightning-Fast Delivery - Speed at Your Doorstep!</string>
+    <string name="description3">Arrives Pristine, Every Time - Damage-Free Delivery Guaranteed!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
